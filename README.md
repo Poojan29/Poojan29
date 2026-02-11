@@ -1,5 +1,6 @@
 <h1 align="center">Hi <span><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="30"/></span>, I'm Poojan Prajapati</h1>
 <h3 align="center">A dedicated Mobile developer, passionate about building seamless and impactful mobile experiences.</h3>
+<h3>🚀 Working on an Android Application called <i>EcoTrack</i> with AI integration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Poojan29&label=Profile%20views&color=0e75b6&style=flat" alt="Poojan29" /> </p>
 
